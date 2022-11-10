@@ -64,7 +64,7 @@ __Aug. 2010 - Oct. 2015__
 
 # Certifications
 ## CompTIA Network+
-![Net+](https://images.credly.com/size/340x340/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png)
+![Net+](/img/CompTIA_Network_2Bce.png)
 ## Microsoft: Azure Solutions Architect
 ![AzureArchitect](https://images.credly.com/size/340x340/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png)
 ## HashiCorp: Terraform Associate
