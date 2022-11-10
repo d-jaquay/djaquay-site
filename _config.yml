@@ -24,8 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I'm a Technical Consultant on all things Azure Cloud, 
   currently specializing in infrastructure as code(IaC).
   This site is a way for me to start documenting things,
-  along with work I may be doing on the side. I love virtual
-  realiy and creating mods for games. Feel free to reach out!
+  along with side projects I may be doing. Feel free to reach out!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://doug.jaquayii.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dougjaquay
